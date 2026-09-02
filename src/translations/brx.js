@@ -1,0 +1,127 @@
+export default {
+  appName: 'भारत नेत्रा (Bharat Netra)',
+  welcomeTitle: 'BHARAT NETRA',
+  welcomeSubtitle: 'सानजा-सोनाब ओनसोल (NER) नि थाखाय AI-आधारित स्मार्ट लजिस्टिक्स',
+  welcomeTagline: 'SIH 2026 • समस्या विवरण SIH26002',
+  welcomeDesc: 'सानजा-सोनाब ओनसोलनि थाखाय स्मार्ट लामा, आपतकालीन हेफाजाब आरो मोजां सा-संजब लजिस्टिक्स।',
+  getStarted: 'जागायदो (GET STARTED)',
+  systemActive: 'भारत सरकार आरो NER लजिस्टिक्स ग्रिड साख्रि',
+  secureProtocol: '256-Bit Geotagged Protocol',
+
+  // Sign In
+  welcomeBack: 'बरायहरो (Welcome)',
+  signInSubtitle: 'लजिस्टिक्स आरो गारि हाबनाय पर्टेल',
+  fullName: 'मुं (User Name)',
+  enterNamePlaceholder: 'नोंथांनि गासै मुं लिर',
+  emailAddress: 'इमैल थं (Email)',
+  enterEmailPlaceholder: 'नोंथांनि ईमेल लिर',
+  mobileNumber: 'मबाइल नम्बर',
+  enterMobilePlaceholder: '98765 43210',
+  getOtpAndContinue: 'इमैल OTP लानानै थांदो',
+  orDivider: 'एबा',
+  continueWithGoogle: 'Google जों थांदो',
+  nameRequired: 'अननानै नोंथांनि मुंखौ लिर',
+  emailRequired: 'अननानै थि इमैल थंखौ लिर',
+  mobileRequired: 'अननानै थि 10-अंको मबाइल नम्बर लिर',
+
+  // OTP
+  verifyOtp: 'इमैल OTP आनजाद खालाम',
+  otpSentTo: 'आनजाद कड हरबाय',
+  enterOtpBelow: 'गाहायाव 4-अंको आनजाद कड लिर',
+  autoFillOtp: 'गावआरि OTP (4473)',
+  resendCode: 'कड फिन हर',
+  resendIn: 'फिन हरनाय सम',
+  seconds: 'सेकेन्ड',
+  verifyAndProceed: 'इमैल आनजाद खालामनानै थांदो',
+  editEmail: 'इमैल थं सोलाय',
+  editMobile: 'मबाइल नम्बर सोलाय',
+  invalidOtp: 'गोरोन्थि OTP! 4473 लिर',
+  otpSuccess: 'इमैल जाफुंसार आनजाद जाबाय',
+
+  // Profile & Language
+  yourProfile: 'नोंथांनि प्रफाइल',
+  profileSubtitle: 'लामा आरो आपतकालीन बाथ्रानि थाखाय राव सायख',
+  registeredDriver: 'रेजिस्टार खालामखानाय लजिस्टिक्स लोगो',
+  selectLanguage: 'राव सायख (Select Language)',
+  selectLanguageSubtitle: 'NER ओनसोलनि थाखाय राव हेफाजाब',
+  continue: 'थांदो (CONTINUE)',
+
+  // Location Access
+  allowLocation: 'जायगानि अनसुंथाइ हो (Allow Location)',
+  locationExplanation: 'Bharat Netra आ लामा दिन्थिनाय आरो आपतकालीन हेफाजाबनि थाखाय नोंथांनि जायगाखौ बाहायो।',
+  allowLocationBtn: 'जायगानि अनसुंथाइ हो',
+  locationCalibrated: 'जायगा मोजांयै लानाय जाबाय',
+  liveCoordinates: '18.734° N, 73.6578° E',
+  accuracyHigh: 'High Accuracy GPS Lock',
+  locationStatusActive: 'Active & Geotagged',
+
+  // Vehicle Selection
+  selectVehicle: 'गारि सायख (Select Vehicle)',
+  vehicleSubtitle: 'रैखाथि आरो लामा थि खालामनो थाखाय गारि सायख',
+  addVehicleBtn: '+ गारि दाजाब',
+  continueWith: 'जों थांदो',
+  selectVehiclePrompt: 'थांनो थाखाय गारि सायख',
+  addVehicleModalTitle: 'गुबुन गारि दाजाब',
+  addVehicleModalSub: 'नोंथांनि गारि फारियाव दाजाबनो थाखाय सायख',
+  alreadyInFleet: 'फारियाव दंखायो',
+  cancel: 'नेवसि',
+
+  // Confirmation
+  routeLocked: 'लामा लक आरो साख्रि (Route Locked & Active)',
+  routeSubtitle: 'Intelligent corridor mapped and geotagged',
+  startingPoint: 'जागायनाय जायगा',
+  startingPointVal: 'Live GPS (18.734° N, 73.6578° E)',
+  destination: 'थांगोन जायगा',
+  destinationVal: 'Shillong Tech Corridor, Meghalaya',
+  vehicleLabel: 'गारि',
+  estimatedTime: 'सम',
+  estimatedTimeVal: '32 mins (Optimized Corridor)',
+  status: 'थाथाइ',
+  geotaggedActive: 'Geotagged Active ✓',
+  terrainIndex: 'Terrain Safety Index',
+  terrainIndexVal: 'Safe (All Clear)',
+  done: 'जाबाय (DONE)',
+
+  // Success Modal
+  setupComplete: 'सेटअप जाबाय (Setup Complete)',
+  profileReady: 'नोंथांनि Bharat Netra प्रफाइला साजायखांबाय।',
+  summaryName: 'मुं',
+  summaryLanguage: 'राव',
+  summaryVehicle: 'गारि',
+  summaryLocation: 'जायगा',
+  granted: 'Active / Calibrated',
+  continueToDashboard: 'CONTINUE',
+
+  // Location Access Modal
+  allowLocationAccessQuestion: 'Bharat Netra नो जायगानि अनसुंथाइ हो?',
+  precise: 'थि जायगा (Precise)',
+  approximate: 'अन्दाज (Approximate)',
+  whileUsingApp: 'एप बाहायनाय समाव',
+  onlyThisTime: 'दाखालि थाखाय',
+  dontAllow: 'होनाङा',
+  locationPermissionNotEnabled: 'जायगानि अनसुंथाइ साख्रि नङा',
+
+  // Vehicles
+  vehicleMode: 'गारि सायखनाय (Vehicle Mode)',
+  bicycle: 'साइकिल',
+  two_wheeler: 'द’कनाव गारि (Bike)',
+  car: 'गारि (Car)',
+  truck: 'ट्रक (Truck)',
+
+  // OTP Sheet
+  messagesBharatNetra: 'इनबक्स • भारत–नेत्रा',
+  tapToAutoFill: 'गावआरि सुफुंनो थु ⚡',
+  otpEmailText: 'नोंथांनि Bharat Netra इमैल OTP कडा 4473। 10 मिनिटनि थाखाय थागोन।',
+  otpSmsText: 'नोंथांनि Bharat Netra इमैल OTP कडा 4473। 10 मिनिटनि थाखाय थागोन।',
+  enterCodeSentTo: 'हरनाय 4-अंको कड लिर:',
+  resendCodeIn: 'फिन हरनाय सम:',
+  emailAlertsActive: 'इमैल सांग्रांथि सोलिगासिनो',
+  emailDispatched: 'इमैल हरबाय',
+  sendToEmail: 'आंनि इमैलआव हर',
+
+  // Dashboard Placeholder
+  dashboardTitle: 'Bharat Netra डेशबर्ड',
+  dashboardSubtitle: 'NER लजिस्टिक्स आरो इन्टेलिजेन्स हब',
+  placeholderNotice: 'अनबर्डिं आरो गारि थिसननाय जाफुंसार जाबाय',
+  restartDemo: 'फिन जागाय',
+};

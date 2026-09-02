@@ -1,0 +1,127 @@
+export default {
+  appName: 'ভাৰত নেত্ৰ',
+  welcomeTitle: 'ভাৰত নেত্ৰ',
+  welcomeSubtitle: 'উত্তৰ-পূৰ্বাঞ্চলৰ (NER) বাবে AI-ভিত্তিক স্মাৰ্ট লজিষ্টিক আৰু প্ৰৱেশাধিকাৰ বুদ্ধিমত্তা মঞ্চ',
+  welcomeTagline: 'SIH 2026 • সমস্যা বিবৃতি SIH26002',
+  welcomeDesc: 'উত্তৰ-পূৰ্বাঞ্চলৰ পাহাৰীয়া আৰু দুৰ্গম অঞ্চলৰ বাবে সুৰক্ষিত পৰিবহণ আৰু জৰুৰীকালীন লজিষ্টিক সহায়।',
+  getStarted: 'আৰম্ভ কৰক',
+  systemActive: 'ভাৰত চৰকাৰ আৰু NER লজিষ্টিক গ্ৰিড সক্ৰিয়',
+  secureProtocol: '২৫৬-বিট সুৰক্ষিত জিঅ’টেগ প্ৰট’কল',
+
+  // Sign In
+  welcomeBack: 'স্বাগতম',
+  signInSubtitle: 'লজিষ্টিক আৰু যান-বাহন প্ৰৱেশ প’ৰ্টেল',
+  fullName: 'ব্যৱহাৰকাৰীৰ নাম',
+  enterNamePlaceholder: 'আপোনাৰ সম্পূৰ্ণ নাম দিয়ক',
+  emailAddress: 'ইমেইল ঠিকনা (Email)',
+  enterEmailPlaceholder: 'আপোনাৰ ইমেইল দিয়ক',
+  mobileNumber: 'ম’বাইল নম্বৰ',
+  enterMobilePlaceholder: '98765 43210',
+  getOtpAndContinue: 'ইমেইল অ’টিপি লওক আৰু আগবাঢ়ক',
+  orDivider: 'বা',
+  continueWithGoogle: 'Google ৰ সৈতে আগবাঢ়ক',
+  nameRequired: 'অনুগ্ৰহ কৰি আপোনাৰ নাম লিখক',
+  emailRequired: 'অনুগ্ৰহ কৰি সঠিক ইমেইল ঠিকনা দিয়ক',
+  mobileRequired: 'অনুগ্ৰহ কৰি সঠিক ১০-অংকৰ ম’বাইল নম্বৰ দিয়ক',
+
+  // OTP
+  verifyOtp: 'ইমেইল অ’টিপি সত্যাপন কৰক',
+  otpSentTo: 'সত্যাপন ক’ড প্ৰেৰণ কৰা হৈছে',
+  enterOtpBelow: 'তলত ৪-অংকৰ সত্যাপন ক’ড দিয়ক',
+  autoFillOtp: 'স্বয়ংক্ৰিয় অ’টিপি (4473)',
+  resendCode: 'পুনৰ ক’ড পঠাওক',
+  resendIn: 'পুনৰ ক’ড পঠোৱাৰ সময়',
+  seconds: 'ছেকেণ্ড',
+  verifyAndProceed: 'ইমেইল সত্যাপন কৰি আগবাঢ়ক',
+  editEmail: 'ইমেইল ঠিকনা সলনি কৰক',
+  editMobile: 'ম’বাইল নম্বৰ সলনি কৰক',
+  invalidOtp: 'ভুল অ’টিপি! অনুগ্ৰহ কৰি 4473 দিয়ক',
+  otpSuccess: 'ইমেইল সফলভাৱে সত্যাপন কৰা হ’ল',
+
+  // Profile & Language
+  yourProfile: 'আপোনাৰ প্ৰফাইল',
+  profileSubtitle: 'নেভিগেচন আৰু জৰুৰীকালীন বাৰ্তাৰ বাবে ভাষা বাছনি কৰক',
+  registeredDriver: 'পঞ্জীকৃত লজিষ্টিক অংশীদাৰ',
+  selectLanguage: 'ভাষা বাছনি কৰক',
+  selectLanguageSubtitle: 'উত্তৰ-পূৰ্বাঞ্চলৰ ৰাজ্যসমূহৰ বাবে আঞ্চলিক ভাষা',
+  continue: 'আগবাঢ়ক',
+
+  // Location Access
+  allowLocation: 'স্থানৰ অনুমতি দিয়ক',
+  locationExplanation: 'ভাৰত নেত্ৰই বাটৰ নিৰ্দেশনা, প্ৰৱেশাধিকাৰ আৰু জৰুৰীকালীন সেৱা প্ৰদান কৰিবলৈ আপোনাৰ স্থান ব্যৱহাৰ কৰে।',
+  allowLocationBtn: 'স্থানৰ অনুমতি দিয়ক',
+  locationCalibrated: 'স্থান সফলভাৱে সংলগ্ন কৰা হ’ল',
+  liveCoordinates: '18.734° N, 73.6578° E',
+  accuracyHigh: 'উচ্চ নিখুঁত উপগ্ৰহ সংলগ্নতা',
+  locationStatusActive: 'সক্ৰিয় আৰু কেলিব্ৰেট কৰা হৈছে',
+
+  // Vehicle Selection
+  selectVehicle: 'আপোনাৰ বাহন বাছক',
+  vehicleSubtitle: 'নিৰাপত্তা আৰু যাত্ৰা পথ নিৰ্ধাৰণ কৰিবলৈ বাহন বাছনি কৰক',
+  addVehicleBtn: '+ বাহন যোগ কৰক',
+  continueWith: 'ৰ সৈতে আগবাঢ়ক',
+  selectVehiclePrompt: 'আগবাঢ়িবলৈ এখন বাহন বাছনি কৰক',
+  addVehicleModalTitle: 'বাহনৰ শ্ৰেণী যোগ কৰক',
+  addVehicleModalSub: 'আপোনাৰ লজিষ্টিক কাৰ্যৰ বাবে বাহন বাছক',
+  alreadyInFleet: 'ইতিমধ্যে তালিকাত আছে',
+  cancel: 'বাতিল কৰক',
+
+  // Confirmation
+  routeLocked: 'পথ সংৰক্ষিত আৰু সক্ৰিয়',
+  routeSubtitle: 'বুদ্ধিমান ভূখণ্ড কৰিডৰ মানচিত্ৰত নিৰ্ধাৰিত',
+  startingPoint: 'আৰম্ভণি স্থান',
+  startingPointVal: 'লাইভ GPS (18.734° N, 73.6578° E)',
+  destination: 'গন্তব্যস্থান',
+  destinationVal: 'শ্বিলং টেক কৰিডৰ, মেঘালয়',
+  vehicleLabel: 'বাহন',
+  estimatedTime: 'আনুমানিক সময়',
+  estimatedTimeVal: '৩২ মিনিট (সৰ্বোত্তম পথ)',
+  status: 'স্থিতি',
+  geotaggedActive: 'জিঅ’টেগ সক্ৰিয় ✓',
+  terrainIndex: 'ভূখণ্ড সুৰক্ষা সূচক',
+  terrainIndexVal: 'নিৰাপদ (কোনো বাধা নাই)',
+  done: 'সম্পূৰ্ণ',
+
+  // Success Modal
+  setupComplete: 'ছেটআপ সম্পূৰ্ণ হ’ল',
+  profileReady: 'আপোনাৰ ভাৰত নেত্ৰ প্ৰফাইল সম্পূৰ্ণ সাজু।',
+  summaryName: 'ব্যৱহাৰকাৰীৰ নাম',
+  summaryLanguage: 'ভাষা',
+  summaryVehicle: 'বাহন',
+  summaryLocation: 'স্থানৰ স্থিতি',
+  granted: 'সক্ৰিয় / কেলিব্ৰেট কৰা হৈছে',
+  continueToDashboard: 'ডেচব’ৰ্ডলৈ আগবাঢ়ক',
+
+  // Location Access Modal
+  allowLocationAccessQuestion: 'ভাৰত নেত্ৰই এই ডিভাইচৰ স্থান ব্যৱহাৰ কৰিবলৈ অনুমতি দিয়ক?',
+  precise: 'সঠিক (Precise)',
+  approximate: 'আনুমানিক (Approximate)',
+  whileUsingApp: 'এপ ব্যৱহাৰ কৰাৰ সময়ত',
+  onlyThisTime: 'কেৱল এইবাৰ',
+  dontAllow: 'অনুমতি নিদিব',
+  locationPermissionNotEnabled: 'স্থানৰ অনুমতি সক্ৰিয় নহয়',
+
+  // Vehicles
+  vehicleMode: 'বাহন মোড',
+  bicycle: 'চাইকেল',
+  two_wheeler: 'দুচকীয়া বাহন',
+  car: 'গাড়ী',
+  truck: 'ট্ৰাক',
+
+  // OTP Sheet
+  messagesBharatNetra: 'ইনবক্স • ভাৰত–নেত্ৰ',
+  tapToAutoFill: 'স্বয়ংক্ৰিয়ভাৱে পূৰণ কৰক ⚡',
+  otpEmailText: 'আপোনাৰ ভাৰত নেত্ৰ ইমেইল অ’টিপি ক’ড হৈছে 4473। ১০ মিনিটৰ বাবে বৈধ।',
+  otpSmsText: 'আপোনাৰ ভাৰত নেত্ৰ ইমেইল অ’টিপি ক’ড হৈছে 4473। ১০ মিনিটৰ বাবে বৈধ।',
+  enterCodeSentTo: 'প্ৰেৰণ কৰা ৪-অংকৰ ক’ড দিয়ক:',
+  resendCodeIn: 'পুনৰ ক’ড পঠোৱাৰ সময়:',
+  emailAlertsActive: 'ইমেইল সতৰ্কবাৰ্তা সক্ৰিয়',
+  emailDispatched: 'ইমেইল প্ৰেৰণ কৰা হৈছে',
+  sendToEmail: 'মোৰ ইমেইললৈ পঠাওক',
+
+  // Dashboard Placeholder
+  dashboardTitle: 'ভাৰত নেত্ৰ ডেশ্বব’ৰ্ড',
+  dashboardSubtitle: 'উত্তৰ-পূৰ্বাঞ্চল লজিষ্টিক আৰু চোৰাংচোৱা কেন্দ্ৰ',
+  placeholderNotice: 'অনব’ৰ্ডিং আৰু যান-বাহন ছেটআপ সফলভাৱে সম্পন্ন হ’ল',
+  restartDemo: 'পুনৰ প্ৰক্ৰিয়া আৰম্ভ কৰক',
+};

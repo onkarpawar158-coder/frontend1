@@ -1,0 +1,127 @@
+export default {
+  appName: 'ভারত নেত্র',
+  welcomeTitle: 'ভারত নেত্র',
+  welcomeSubtitle: 'উত্তর-পূর্ব অঞ্চলের (NER) জন্য AI-ভিত্তিক স্মার্ট লজিস্টিক ও অ্যাক্সেসিবিলিটি ইন্টেলিজেন্স প্ল্যাটফর্ম',
+  welcomeTagline: 'SIH 2026 • সমস্যা বিবৃতি SIH26002',
+  welcomeDesc: 'উত্তর-পূর্বাঞ্চলের জন্য উন্নত রুট অপ্টিমাইজেশন, জরুরি লজিস্টিক সহায়তা ও পরিবহন পরিকাঠামো।',
+  getStarted: 'শুরু করুন',
+  systemActive: 'ভারত সরকার ও NER লজিস্টিক গ্রিড সক্রিয়',
+  secureProtocol: '২৫৬-বিট সুরক্ষিত জিওট্যাগ প্রোটোকল',
+
+  // Sign In
+  welcomeBack: 'স্বাগতম',
+  signInSubtitle: 'লজিস্টিক ও ফ্লিট অ্যাক্সেস পোর্টাল',
+  fullName: 'ব্যবহারকারীর নাম',
+  enterNamePlaceholder: 'আপনার পুরো নাম লিখুন',
+  emailAddress: 'ইমেইল ঠিকানা (Email)',
+  enterEmailPlaceholder: 'আপনার ইমেল লিখুন',
+  mobileNumber: 'মোবাইল নম্বর',
+  enterMobilePlaceholder: '98765 43210',
+  getOtpAndContinue: 'ইমেইল ওটিপি পান এবং এগিয়ে যান',
+  orDivider: 'অথবা',
+  continueWithGoogle: 'Google দিয়ে এগিয়ে যান',
+  nameRequired: 'অনুগ্রহ করে আপনার নাম লিখুন',
+  emailRequired: 'অনুগ্রহ করে একটি সঠিক ইমেইল ঠিকানা দিন',
+  mobileRequired: 'একটি বৈধ ১০-সংখ্যার মোবাইল নম্বর দিন',
+
+  // OTP
+  verifyOtp: 'ইমেইল ওটিপি যাচাই করুন',
+  otpSentTo: 'যাচাইকরণ কোড পাঠানো হয়েছে',
+  enterOtpBelow: 'নিচে ৪-সংখ্যার যাচাইকরণ কোড লিখুন',
+  autoFillOtp: 'স্বয়ংক্রিয় ওটিপি (4473)',
+  resendCode: 'কোড পুনরায় পাঠান',
+  resendIn: 'কোড পুনরায় পাঠানো হবে',
+  seconds: 'সেকেন্ডে',
+  verifyAndProceed: 'ইমেইল যাচাই করে এগিয়ে যান',
+  editEmail: 'ইমেইল ঠিকানা পরিবর্তন করুন',
+  editMobile: 'নম্বর পরিবর্তন করুন',
+  invalidOtp: 'ভুল ওটিপি! অনুগ্রহ করে 4473 লিখুন',
+  otpSuccess: 'ইমেইল সফলভাবে যাচাই করা হয়েছে',
+
+  // Profile & Language
+  yourProfile: 'আপনার প্রোফাইল',
+  profileSubtitle: 'ন্যাভিগেশন এবং জরুরি সতর্কতার জন্য ভাষা নির্বাচন করুন',
+  registeredDriver: 'নিবন্ধিত লজিস্টিক অংশীদার',
+  selectLanguage: 'ভাষা নির্বাচন করুন',
+  selectLanguageSubtitle: 'উত্তর-পূর্ব রাজ্যের জন্য স্থানীয় ভাষা সহায়তা',
+  continue: 'এগিয়ে যান',
+
+  // Location Access
+  allowLocation: 'অবস্থানের অনুমতি দিন',
+  locationExplanation: 'ভারত নেত্র রুট গাইডেন্স, অ্যাক্সেসিবিলিটি মনিটরিং এবং জরুরি প্রতিক্রিয়া দিতে আপনার অবস্থান ব্যবহার করে।',
+  allowLocationBtn: 'অবস্থানের অনুমতি দিন',
+  locationCalibrated: 'অবস্থান সফলভাবে ক্যালিব্রেট করা হয়েছে',
+  liveCoordinates: '18.734° N, 73.6578° E',
+  accuracyHigh: 'উচ্চ নির্ভুলতা স্যাটেলাইট সংযোগ',
+  locationStatusActive: 'সক্রিয় ও ক্যালিব্রেটেড',
+
+  // Vehicle Selection
+  selectVehicle: 'আপনার বাহন নির্বাচন করুন',
+  vehicleSubtitle: 'নিরাপত্তা ও যাতায়াতের রুট ক্যালিব্রেট করতে বাহন বাছুন',
+  addVehicleBtn: '+ বাহন যোগ করুন',
+  continueWith: 'দিয়ে এগিয়ে যান',
+  selectVehiclePrompt: 'এগিয়ে যেতে একটি বাহন নির্বাচন করুন',
+  addVehicleModalTitle: 'বাহন বিভাগ যোগ করুন',
+  addVehicleModalSub: 'আপনার ফ্লিটে অতিরিক্ত বাহন যুক্ত করুন',
+  alreadyInFleet: 'ইতিমধ্যে তালিকায় আছে',
+  cancel: 'বাতিল',
+
+  // Confirmation
+  routeLocked: 'রুট লক এবং সক্রিয়',
+  routeSubtitle: 'স্মার্ট লজিস্টিক করিডর মানচিত্রে নির্ধারিত',
+  startingPoint: 'শুরুর স্থান',
+  startingPointVal: 'লাইভ GPS (18.734° N, 73.6578° E)',
+  destination: 'গন্তব্য',
+  destinationVal: 'শিলং টেক করিডর, মেঘালয়',
+  vehicleLabel: 'বাহন',
+  estimatedTime: 'আনুমানিক সময়',
+  estimatedTimeVal: '৩২ মিনিট (সেরা রুট)',
+  status: 'অবস্থা',
+  geotaggedActive: 'জিওট্যাগ সক্রিয় ✓',
+  terrainIndex: 'ভূখণ্ড নিরাপত্তা সূচক',
+  terrainIndexVal: 'নিরাপদ (কোনো ঝুঁকি নেই)',
+  done: 'সম্পন্ন',
+
+  // Success Modal
+  setupComplete: 'সেটআপ সম্পন্ন',
+  profileReady: 'আপনার ভারত নেত্র প্রোফাইল সম্পূর্ণ প্রস্তুত।',
+  summaryName: 'ব্যবহারকারীর নাম',
+  summaryLanguage: 'ভাষা',
+  summaryVehicle: 'বাহন',
+  summaryLocation: 'অবস্থান অ্যাক্সেস',
+  granted: 'সক্রিয় / ক্যালিব্রেটেড',
+  continueToDashboard: 'ড্যাশবোর্ডে যান',
+
+  // Location Access Modal
+  allowLocationAccessQuestion: 'ভারত নেত্রকে এই ডিভাইসের অবস্থান ব্যবহারের অনুমতি দিতে চান?',
+  precise: 'সঠিক (Precise)',
+  approximate: 'আনুমানিক (Approximate)',
+  whileUsingApp: 'অ্যাপ ব্যবহার করার সময়',
+  onlyThisTime: 'শুধুমাত্র এবার',
+  dontAllow: 'অনুমতি দেবেন না',
+  locationPermissionNotEnabled: 'অবস্থানের অনুমতি সক্রিয় নয়',
+
+  // Vehicles
+  vehicleMode: 'বাহন মোড',
+  bicycle: 'সাইকেল',
+  two_wheeler: 'দ্বিচক্রযান (বাইক)',
+  car: 'গাড়ি',
+  truck: 'ট্রাক',
+
+  // OTP Sheet
+  messagesBharatNetra: 'ইনবক্স • ভারত–নেত্র',
+  tapToAutoFill: 'স্বয়ংক্রিয়ভাবে পূরণ করতে ট্যাপ করুন ⚡',
+  otpEmailText: 'আপনার ভারত নেত্র ইমেইল ওটিপি কোড হলো 4473। ১০ মিনিটের জন্য বৈধ।',
+  otpSmsText: 'আপনার ভারত নেত্র ইমেইল ওটিপি কোড হলো 4473। ১০ মিনিটের জন্য বৈধ।',
+  enterCodeSentTo: 'পাঠানো ৪-সংখ্যার কোড লিখুন:',
+  resendCodeIn: 'কোড পুনরায় পাঠানোর সময়:',
+  emailAlertsActive: 'ইমেইল সতর্কতা সক্রিয়',
+  emailDispatched: 'ইমেইল পাঠানো হয়েছে',
+  sendToEmail: 'আমার ইমেইলে পাঠান',
+
+  // Dashboard Placeholder
+  dashboardTitle: 'ভারত নেত্র ড্যাশবোর্ড',
+  dashboardSubtitle: 'উত্তর-পূর্ব অঞ্চল লজিস্টিক ও ইন্টেলিজেন্স হাব',
+  placeholderNotice: 'অনবোর্ডিং ও যানবাহন সেটআপ সফলভাবে সম্পন্ন হয়েছে',
+  restartDemo: 'পুনরায় শুরু করুন',
+};

@@ -1,0 +1,127 @@
+export default {
+  appName: 'ভারত নেত্র (Bharat Netra)',
+  welcomeTitle: 'BHARAT NETRA',
+  welcomeSubtitle: 'AI-Based Smart Logistics & Accessibility Platform (NER)',
+  welcomeTagline: 'SIH 2026 • Problem Statement SIH26002',
+  welcomeDesc: 'ꯑꯋꯥꯡ ꯅꯣꯡꯄꯣꯛ (NER) ꯒꯤ ꯂꯝꯗꯃꯒꯤ ꯂꯣꯖꯤꯁ꯭ꯇꯤꯛ ꯑꯃꯁꯨꯡ ꯏꯃꯔꯖꯦꯟꯁꯤ ꯁꯔꯚꯤꯁꯀꯤ ꯂꯝꯕꯤ ꯌꯦꯡꯁꯤꯅꯕꯥ ꯄ꯭ꯂꯦꯠꯐꯣꯔꯝ꯫',
+  getStarted: 'ꯍꯧꯔꯀꯎ (GET STARTED)',
+  systemActive: 'Govt. of India & NER Logistics Grid Active',
+  secureProtocol: '256-Bit Geotagged Protocol',
+
+  // Sign In
+  welcomeBack: 'ꯇꯔꯥꯝꯅꯥ ꯑꯣꯛꯆꯔꯤ (Welcome)',
+  signInSubtitle: 'Logistics & Fleet Access Portal',
+  fullName: 'ꯃꯤꯡ (User Name)',
+  enterNamePlaceholder: 'ꯑꯗꯣꯃꯒꯤ ꯃꯤꯡ ꯏꯌꯨ',
+  emailAddress: 'ꯏꯃꯦꯜ ꯑꯦꯗ꯭ꯔꯦꯁ (Email)',
+  enterEmailPlaceholder: 'Enter your email',
+  mobileNumber: 'ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ',
+  enterMobilePlaceholder: '98765 43210',
+  getOtpAndContinue: 'ꯏꯃꯦꯜ OTP ꯂꯧꯔꯒꯥ ꯃꯈꯥ ꯆꯠꯊꯕꯥ',
+  orDivider: 'ꯅꯠꯇ꯭ꯔꯒ',
+  continueWithGoogle: 'Google ꯒꯥ ꯂꯣꯌꯅꯅꯥ ꯆꯠꯊꯕꯥ',
+  nameRequired: 'ꯑꯗꯣꯃꯒꯤ ꯃꯤꯡ ꯏꯕꯤꯌꯨ',
+  emailRequired: 'ꯑꯆꯨꯝꯕꯥ ꯏꯃꯦꯜ ꯑꯦꯗ꯭ꯔꯦꯁ ꯏꯕꯤꯌꯨ',
+  mobileRequired: 'ꯑꯆꯨꯝꯕꯥ ꯱꯰-ꯗꯤꯖꯤꯠ ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ ꯏꯕꯤꯌꯨ',
+
+  // OTP
+  verifyOtp: 'ꯏꯃꯦꯜ OTP ꯌꯦꯡꯁꯤꯅꯕꯥ',
+  otpSentTo: 'ꯀꯣꯗ ꯊꯥꯔꯀꯈ꯭ꯔꯦ',
+  enterOtpBelow: 'ꯑꯗꯣꯃꯒꯤ ꯏꯃꯦꯂꯗꯥ ꯊꯥꯔꯛꯄꯥ ꯴-ꯗꯤꯖꯤꯠ ꯀꯣꯗ ꯏꯌꯨ',
+  autoFillOtp: 'Auto-Fill OTP (4473)',
+  resendCode: 'ꯀꯣꯗ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯊꯥꯔꯀꯎ',
+  resendIn: 'ꯀꯣꯗ ꯑꯃꯨꯛ ꯊꯥꯕꯒꯤ ꯃꯇꯝ',
+  seconds: 'ꯁꯦꯀꯦꯟꯗ',
+  verifyAndProceed: 'ꯏꯃꯦꯜ ꯆꯦꯛ ꯇꯧꯔꯒꯥ ꯃꯈꯥ ꯆꯠꯊꯕꯥ',
+  editEmail: 'ꯏꯃꯦꯜ ꯁꯦꯃꯗꯣꯀꯄꯥ',
+  editMobile: 'ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ ꯁꯦꯃꯗꯣꯀꯄꯥ',
+  invalidOtp: 'ꯑꯔꯥꯅꯕꯥ OTP! 4473 ꯏꯕꯤꯌꯨ',
+  otpSuccess: 'ꯏꯃꯦꯜ ꯃꯥꯌꯄꯥꯛꯅꯥ ꯌꯦꯡꯁꯤꯅꯈ꯭ꯔꯦ',
+
+  // Profile & Language
+  yourProfile: 'ꯑꯗꯣꯃꯒꯤ ꯄ꯭ꯔꯣꯐꯥꯏꯜ',
+  profileSubtitle: 'ꯅꯦꯚꯤꯒꯦꯁꯟꯒꯤ ꯂꯣꯟ ꯈꯅꯕꯤꯌꯨ',
+  registeredDriver: 'ꯔꯦꯖꯤꯁ꯭ꯇꯔ ꯇꯧꯔꯕꯥ ꯂꯣꯖꯤꯁ꯭ꯇꯤꯛ ꯄꯥꯔꯇꯅꯔ',
+  selectLanguage: 'ꯂꯣꯟ ꯈꯅꯕꯤꯌꯨ (Select Language)',
+  selectLanguageSubtitle: 'NER ꯂꯝꯗꯃꯁꯤꯡꯒꯤ ꯂꯣꯟ ꯁꯄꯣꯔ꯭ꯠ',
+  continue: 'ꯃꯈꯥ ꯆꯠꯊꯕꯥ (CONTINUE)',
+
+  // Location Access
+  allowLocation: 'ꯃꯐꯝꯒꯤ ꯑꯌꯥꯕꯥ ꯄꯤꯕꯥ (Allow Location)',
+  locationExplanation: 'Bharat Netra ꯅꯥ ꯑꯗꯣꯃꯒꯤ ꯃꯐꯝ ꯁꯤꯖꯤꯟꯅꯗꯨꯅꯥ ꯑꯋꯥꯡ ꯅꯣꯡꯄꯣꯛꯀꯤ ꯂꯝꯕꯤ ꯑꯃꯁꯨꯡ ꯏꯃꯔꯖꯦꯟꯁꯤ ꯂꯣꯖꯤꯁ꯭ꯇꯤꯛ ꯄꯤ',
+  allowLocationBtn: 'ꯃꯐꯝꯒꯤ ꯑꯌꯥꯕꯥ ꯄꯤꯕꯥ',
+  locationCalibrated: 'ꯃꯐꯝ ꯃꯥꯌꯄꯥꯛꯅꯥ ꯐꯪꯈ꯭ꯔꯦ',
+  liveCoordinates: '18.734° N, 73.6578° E',
+  accuracyHigh: 'High Accuracy GPS Lock',
+  locationStatusActive: 'Active & Geotagged',
+
+  // Vehicle Selection
+  selectVehicle: 'ꯒꯥꯔꯤ ꯈꯅꯕꯤꯌꯨ (Select Vehicle)',
+  vehicleSubtitle: 'ꯂꯝꯕꯤ ꯑꯃꯁꯨꯡ ꯆꯠ-ꯊꯣꯛ ꯆꯦꯛ ꯇꯧꯅꯕꯥ ꯒꯥꯔꯤ ꯈꯅꯒꯗꯕꯅꯤ',
+  addVehicleBtn: '+ ꯒꯥꯔꯤ ꯍꯥꯞꯆꯤꯅꯕꯥ',
+  continueWith: 'ꯒꯥ ꯂꯣꯌꯅꯅꯥ ꯃꯈꯥ ꯆꯠꯊꯕꯥ',
+  selectVehiclePrompt: 'ꯃꯈꯥ ꯆꯠꯊꯅꯕꯥ ꯒꯥꯔꯤ ꯑꯃꯥ ꯈꯅꯕꯤꯌꯨ',
+  addVehicleModalTitle: 'ꯑꯇꯣꯞꯄꯥ ꯒꯥꯔꯤ ꯍꯥꯞꯆꯤꯅꯕꯥ',
+  addVehicleModalSub: 'ꯑꯗꯣꯃꯒꯤ ꯒꯥꯔꯤ ꯂꯤꯁ꯭ꯇꯇꯥ ꯍꯥꯞꯆꯤꯅꯅꯕꯥ ꯈꯅꯕꯤꯌꯨ',
+  alreadyInFleet: 'ꯂꯤꯁ꯭ꯇꯇꯥ ꯍꯥꯟꯅꯅꯥ ꯌꯥꯑꯣꯔꯦ',
+  cancel: 'ꯀꯦꯟꯁꯦꯜ',
+
+  // Confirmation
+  routeLocked: 'ꯂꯝꯕꯤ ꯂꯣꯛ ꯇꯧꯔꯦ (Route Locked & Active)',
+  routeSubtitle: 'Intelligent corridor mapped and geotagged',
+  startingPoint: 'ꯍꯧꯔꯀꯐꯝ',
+  startingPointVal: 'Live GPS (18.734° N, 73.6578° E)',
+  destination: 'ꯌꯧꯒꯗꯕꯥ ꯃꯐꯝ',
+  destinationVal: 'Shillong Tech Corridor, Meghalaya',
+  vehicleLabel: 'ꯒꯥꯔꯤ',
+  estimatedTime: 'ꯃꯇꯝ',
+  estimatedTimeVal: '32 mins (Optimized Corridor)',
+  status: 'ꯐꯤꯚꯝ',
+  geotaggedActive: 'Geotagged Active ✓',
+  terrainIndex: 'Terrain Safety Index',
+  terrainIndexVal: 'Safe (All Clear)',
+  done: 'ꯂꯣꯏꯔꯦ (DONE)',
+
+  // Success Modal
+  setupComplete: 'ꯁꯦꯠꯑꯞ ꯂꯣꯏꯔꯦ (Setup Complete)',
+  profileReady: 'ꯑꯗꯣꯃꯒꯤ Bharat Netra ꯄ꯭ꯔꯣꯐꯥꯏꯜ ꯁꯦꯝꯕꯥ ꯂꯣꯏꯔꯦ꯫',
+  summaryName: 'ꯃꯤꯡ',
+  summaryLanguage: 'ꯂꯣꯟ',
+  summaryVehicle: 'ꯒꯥꯔꯤ',
+  summaryLocation: 'ꯃꯐꯝ',
+  granted: 'Active / Calibrated',
+  continueToDashboard: 'CONTINUE',
+
+  // Location Access Modal
+  allowLocationAccessQuestion: 'Bharat Netra ꯗꯥ ꯃꯐꯝ ꯁꯤꯖꯤꯟꯅꯕꯒꯤ ꯑꯌꯥꯕꯥ ꯄꯤꯕ꯭ꯔꯥ?',
+  precise: 'ꯑꯆꯨꯝꯕꯥ (Precise)',
+  approximate: 'ꯑꯅꯨꯃꯥꯟ (Approximate)',
+  whileUsingApp: 'ꯑꯦꯞ ꯁꯤꯖꯤꯟꯅꯔꯤꯉꯩꯗꯥ',
+  onlyThisTime: 'ꯍꯟꯗꯛ ꯈꯛꯇꯥ',
+  dontAllow: 'ꯑꯌꯥꯕꯥ ꯄꯤꯗꯕꯥ',
+  locationPermissionNotEnabled: 'Location permission not enabled',
+
+  // Vehicles
+  vehicleMode: 'Vehicle Mode',
+  bicycle: 'ꯁꯥꯏꯀꯦꯜ (Bicycle)',
+  two_wheeler: 'ꯃꯣꯇꯔꯁꯥꯏꯀꯦꯜ (Bike)',
+  car: 'ꯀꯥꯔ (Car)',
+  truck: 'ꯇ꯭ꯔꯛ (Truck)',
+
+  // OTP Sheet
+  messagesBharatNetra: 'ꯏꯅꯕꯣꯛꯁ • ꯚꯥꯔꯠ–ꯅꯦꯠꯔꯥ',
+  tapToAutoFill: 'Auto-fill ꯇꯧꯅꯕꯥ ꯊꯥꯕꯤꯌꯨ ⚡',
+  otpEmailText: 'ꯑꯗꯣꯃꯒꯤ Bharat Netra ꯏꯃꯦꯜ OTP ꯀꯣꯗ 4473 ꯅꯤ꯫ ꯃꯤꯅꯤꯠ ꯱꯰ ꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯏꯌꯨ꯫',
+  otpSmsText: 'ꯑꯗꯣꯃꯒꯤ Bharat Netra ꯏꯃꯦꯜ OTP ꯀꯣꯗ 4473 ꯅꯤ꯫ ꯃꯤꯅꯤꯠ ꯱꯰ ꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯏꯌꯨ꯫',
+  enterCodeSentTo: 'ꯊꯥꯔꯛꯄꯥ ꯴-ꯗꯤꯖꯤꯠ ꯀꯣꯗ ꯏꯌꯨ:',
+  resendCodeIn: 'ꯀꯣꯗ ꯑꯃꯨꯛ ꯊꯥꯕꯒꯤ ꯃꯇꯝ:',
+  emailAlertsActive: 'ꯏꯃꯦꯜ ꯑꯦꯂꯔ꯭ꯠ ꯑꯦꯛꯇꯤꯚ ꯑꯣꯏꯔꯦ',
+  emailDispatched: 'ꯏꯃꯦꯜ ꯊꯥꯔꯀꯈ꯭ꯔꯦ',
+  sendToEmail: 'ꯏꯃꯦꯂꯗꯥ ꯊꯥꯕꯤꯌꯨ',
+
+  // Dashboard Placeholder
+  dashboardTitle: 'Bharat Netra ꯗꯦꯁꯕꯣꯔ꯭ꯗ',
+  dashboardSubtitle: 'NER ꯂꯣꯖꯤꯁ꯭ꯇꯤꯛ ꯑꯃꯁꯨꯡ ꯏꯟꯇꯦꯂꯤꯖꯦꯟꯁ ꯍꯕ',
+  placeholderNotice: 'ꯑꯣꯅꯣꯔꯗꯤꯡ ꯑꯃꯁꯨꯡ ꯒꯥꯔꯤ ꯁꯦꯠꯑꯞ ꯃꯥꯌꯄꯥꯛꯅꯥ ꯂꯣꯏꯁꯤꯅꯈ꯭ꯔꯦ',
+  restartDemo: 'ꯑꯃꯨꯛ ꯍꯧꯔꯀꯎ',
+};

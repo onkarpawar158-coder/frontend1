@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Bharat Netra",
+    "slug": "bharat-netra",
+    "scheme": "bharatnetra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/App logo.jpeg",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/assets/App logo.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B111E"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/App logo.jpeg",
+        "backgroundColor": "#0B111E"
+      },
+      "package": "com.sih2026.bharatnetra",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./src/assets/App logo.jpeg"
+    },
+    "plugins": [
+      "expo-web-browser",
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0356e59f-8d0d-405c-b4ec-615dcd40f070"
+      }
+    }
+  }
+}

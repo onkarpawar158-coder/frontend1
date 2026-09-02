@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134885355696",
+    "project_id": "sihproject-47cf8",
+    "storage_bucket": "sihproject-47cf8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134885355696:android:72b93ffc0e2f5c74944b75",
+        "android_client_info": {
+          "package_name": "com.sih2026.bharatnetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134885355696-rdo0bjgbjn6ud6935gacm89ap0gr9rfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sih2026.bharatnetra",
+            "certificate_hash": "3e43bae18d3c6f2bc57986d210cbeae8fcf860ca"
+          }
+        },
+        {
+          "client_id": "134885355696-krsp6grp876m2nst6eftplkvrdols245.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJNbujBHch1dhvseu0VB5gch3JeO2NQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134885355696-krsp6grp876m2nst6eftplkvrdols245.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
